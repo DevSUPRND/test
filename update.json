@@ -1,6 +1,6 @@
 {
-  "F_Version" : 1.5,
-  "F_Url" :"https://devsuprnd.github.io/test/firmware_1.5.bin",
+  "F_Version" : 1.6,
+  "F_Url" :"https://devsuprnd.github.io/test/firmware_1.6.bin",
   "S_Version" : 1.0,
   "S_Url" :"https://devsuprnd.github.io/test/spiffs_1.0.bin"
 }
